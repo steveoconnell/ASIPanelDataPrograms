@@ -30,20 +30,7 @@ Note that raw data files need to have the following folder structure and names:
 08/01/2013  12:31 PM    <DIR>          2008
 11/18/2013  10:58 PM    <DIR>          2009
 02/04/2014  04:08 PM    <DIR>          2010
-05/22/2013  02:30 PM    <DIR>          93-94
-05/22/2013  02:30 PM    <DIR>          94-95
-01/21/2013  10:29 PM    <DIR>          95-96
-01/21/2013  10:29 PM    <DIR>          96-97
-01/21/2013  10:29 PM    <DIR>          97-98
-12/24/2012  09:37 PM    <DIR>          98-99
-09/20/2013  02:02 PM    <DIR>          Dictionaries
-11/24/2013  03:29 PM               125 Notes on ASI raw data file renaming.txt
-08/22/2013  12:20 PM            44,544 Paneldatastruc 2008-09.xls
-08/22/2013  12:20 PM            44,544 Paneldatastruc 2009-10.xls
-08/22/2013  12:21 PM            26,624 State Master 1998-99 to 2009-10.xls
-11/18/2013  08:30 PM    <DIR>          summary_record
-11/18/2013  08:30 PM    <DIR>          supplemental files
-               4 File(s)        115,837 bytes
+
 
  Directory of \data\1998
 
